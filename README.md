@@ -4,7 +4,7 @@ Hi 👋 My name is Armin Yaghoubi
 Backend Developer
 -----------------
 
-Armin is a .Net Developer. I've been learning to code for 7 years. I started with C# and have really found a passion for backend development.
+Armin is a .Net Developer. I've been learning to code for 7 years. I started with C# and have really found a passion for backend development. I love my job and I develop this skill every day.
 
 * 🌍  I'm based in Tehran
 * ✉️  You can contact me at [ArminYaghoubi1@gmail.com](mailto:ArminYaghoubi1@gmail.com)
